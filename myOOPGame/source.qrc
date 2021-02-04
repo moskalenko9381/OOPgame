@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>open.jpg</file>
+        <file>doors.jpg</file>
+        <file>rock.png</file>
+        <file>coin.png</file>
+        <file>rat.jpg</file>
+        <file>vortex.png</file>
+        <file>green.png</file>
+        <file>rat.png</file>
+        <file>thief.png</file>
+        <file>attack.jpg</file>
+        <file>stalker.png</file>
+        <file>theft.png</file>
+        <file>weapon.png</file>
+        <file>attack.png</file>
+        <file>cheb.png</file>
+    </qresource>
+</RCC>
