@@ -11,3 +11,5 @@
  K - считывание и загрузка игры из файла.  
 
 Открыть необходимо при помощи файла gameOOP.pro.
+
+![image](https://user-images.githubusercontent.com/54900460/128573722-a4607e8d-01e0-4eec-b909-85f425bcc9c5.png)
